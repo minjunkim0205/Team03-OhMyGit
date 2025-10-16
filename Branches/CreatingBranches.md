@@ -8,3 +8,6 @@
 
 ### 문제: Deleting branches
 **답: git branch -D ice-cream**입니다.
+
+### 문제: Moving branches around
+**답: git checkout donut, git reset --hard**입니다.
